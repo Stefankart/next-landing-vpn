@@ -4,12 +4,7 @@ import { motion } from "framer-motion";
 import getScrollAnimation from "../utils/getScrollAnimation";
 import ScrollAnimationWrapper from "./Layout/ScrollAnimationWrapper";
 
-const features = [
-  "Powerfull online protection.",
-  "Internet without borders.",
-  "Supercharged VPN",
-  "No specific time limits."
-]
+
 
 const Feature = () => {
   const scrollAnimation = useMemo(() => getScrollAnimation(), []);
@@ -35,31 +30,17 @@ const Feature = () => {
         <ScrollAnimationWrapper>
 
         <motion.div className="flex flex-col items-end justify-center ml-auto w-full lg:w-9/12" variants={scrollAnimation}>
-          <h3 className="text-3xl lg:text-4xl font-medium leading-relaxed text-black-600">
-            We Provide Many Features You Can Use
-          </h3>
-          <p className="my-2 text-black-500">
-            You can explore the features that we provide with fun and have their
-            own functions each feature.
-          </p>
-          <ul className="text-black-500 self-start list-inside ml-8">
-            {features.map((feature, index) => (
-              <motion.li
-                className="relative circle-check custom-list"
-                custom={{duration: 2 + index}}
-                variants={scrollAnimation}
-                key={feature}
-                whileHover={{
-                scale : 1.1,
-                transition: {
-                  duration: .2
-                }
-                }}>
-                  {feature}
-              </motion.li>
-              )
-            )}
-          </ul>
+        <h3 className="text-3xl lg:text-4xl font-medium leading-relaxed text-black-600">
+    Hey there! Struggling with China's Complex Legal System? 
+  </h3>
+  <p className="mt-4 text-black-500">
+   <b>I understand the challenge. </b> 
+    With over 18 years of experience, I'm your go-to expert for demystifying Chinese law. 😊👨‍⚖️<br/><br/>
+    My deep understanding of both Chinese and Western cultures ensures I can assist you with tasks such as drafting contracts, composing legal letters, or simply answering your legal queries. 💼📝❓<br/><br/>
+    Say goodbye to confusion and hello to legal clarity. Let's connect and find the solutions you need! 🤝💡
+  </p>
+
+          
         </motion.div>
         </ScrollAnimationWrapper>
       </div>

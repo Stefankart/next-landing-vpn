@@ -10,40 +10,40 @@ import ArrowNext from "../public/assets/Icon/eva_arrow-next-fill.svg";
 const Testimoni = ({
   listTestimoni = [
     {
-      name: "iezh Robert",
+      name: "Sarah Turner",
       image: "/assets/people-3.png",
-      city: "Warsaw",
-      country: "Poland",
-      rating: "4.5",
+      city: "New York",
+      country: "USA",
+      rating: "5.0",
       testimoni:
-        "Wow... I am very happy to use this VPN, it turned out to be more than my expectations and so far there have been no problems. LaslesVPN always the best",
+        "I was facing complex legal issues while doing business in China. Your Legal Power Hour gave me the clarity I needed. Highly recommend!",
     },
     {
-      name: "iezh Robert",
+      name: "Carlos Gomez",
       image: "/assets/people-3.png",
-      city: "Warsaw",
-      country: "Poland",
-      rating: "4.5",
+      city: "Mexico City",
+      country: "Mexico",
+      rating: "4.8",
       testimoni:
-        "Wow... I am very happy to use this VPN, it turned out to be more than my expectations and so far there have been no problems. LaslesVPN always the best",
+        "Your Legal Ghostwriting Services saved me time and effort. They handled all my legal documentation for my China venture. Impressive work!",
     },
     {
-      name: "iezh Robert",
-      image: "/assets/people-3.png",
-      city: "Warsaw",
-      country: "Poland",
-      rating: "4.5",
+      name: "Sophie Leclair",
+      image:"/assets/people-3.png",
+      city: "Paris",
+      country: "France",
+      rating: "4.7",
       testimoni:
-        "Wow... I am very happy to use this VPN, it turned out to be more than my expectations and so far there have been no problems. LaslesVPN always the best",
+        "The Retainer Pro Plan has been a lifesaver for my business. I now have peace of mind knowing my legal matters are expertly taken care of.",
     },
     {
-      name: "iezh Robert",
+      name: "David Smith",
       image: "/assets/people-3.png",
-      city: "Warsaw",
-      country: "Poland",
-      rating: "4.5",
+      city: "London",
+      country: "UK",
+      rating: "4.6",
       testimoni:
-        "Wow... I am very happy to use this VPN, it turned out to be more than my expectations and so far there have been no problems. LaslesVPN always the best",
+        "I was facing serious criminal charges in China. Your firm's expertise and support were invaluable. Thank you for securing the best outcome!",
     },
   ],
 }) => {
