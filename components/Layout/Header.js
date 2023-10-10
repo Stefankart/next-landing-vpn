@@ -78,7 +78,7 @@ const Header = () => {
                   : " text-black-500 hover:text-orange-500 ")
               }
             >
-              
+              Services
             </LinkScroll>
             <LinkScroll
               activeClass="active"
@@ -102,10 +102,10 @@ const Header = () => {
           <div className="col-start-10 col-end-12 font-medium flex justify-end items-center">
             <Link href="/">
               <a className="text-black-600 mx-2 sm:mx-4 capitalize tracking-wide hover:text-orange-500 transition-all">
-                +861562112418
+                  Sign In
               </a>
             </Link>
-            <ButtonOutline> Book a call </ButtonOutline>
+            <ButtonOutline>Sign Up</ButtonOutline>
           </div>
         </nav>
       </header>

@@ -52,27 +52,31 @@ Are legal issues causing stress and uncertainty? My expert team offers solutions
                   />
                 </div>
                 <p className="text-lg text-black-600 font-medium capitalize my-2 sm:my-7">
-                  Free Plan
+                  Legal Power Hour
                 </p>
                 <ul className="flex flex-col list-inside pl-6 xl:pl-0 items-start justify-start text-left text-black-500 flex-grow">
-                  <li className="relative check custom-list my-2">
-                    Unlimited Bandwitch
-                  </li>
-                  <li className="relative check custom-list my-2">
-                    Encrypted Connection
-                  </li>
-                  <li className="relative check custom-list my-2">
-                    No Traffic Logs
-                  </li>
-                  <li className="relative check custom-list my-2">
-                    Works on All Devices
-                  </li>
+                <li className="relative check custom-list my-2">
+    Got a burning legal question?
+  </li>
+  <li className="relative check custom-list my-2">
+    Uncertain about complex legal issues?
+  </li>
+  <li className="relative check custom-list my-2">
+    Get all your queries answered in a 60-minute session with our experienced legal expert.
+  </li>
+  <li className="relative check custom-list my-2">
+    No question is too big or too small.
+  </li>
+  <li className="relative check custom-list my-2">
+    Book your Legal Power Hour now and get the clarity you need.
+  </li>
+
                 </ul>
                 <div className="flex flex-col w-full justify-center mb-8 flex-none mt-12">
                   <p className="text-2xl text-black-600 text-center mb-4 ">
-                    Free
+                    
                   </p>
-                  <ButtonOutline>Select</ButtonOutline>
+                  <ButtonOutline>Book a Consult</ButtonOutline>
                 </div>
               </motion.div>
             </ScrollAnimationWrapper>
@@ -96,30 +100,30 @@ Are legal issues causing stress and uncertainty? My expert team offers solutions
                 />
               </div>
               <p className="text-lg text-black-600 font-medium capitalize my-2 sm:my-7">
-                Standard Plan{" "}
+                Legal Ghostwriting{" "}
               </p>
               <ul className="flex flex-col list-inside pl-6 xl:pl-0 items-start justify-start text-left text-black-500 flex-grow">
-                <li className="relative check custom-list my-2">
-                  Unlimited Bandwitch
-                </li>
-                <li className="relative check custom-list my-2">
-                  Encrypted Connection
-                </li>
-                <li className="relative check custom-list my-2">
-                  No Traffic Logs
-                </li>
-                <li className="relative check custom-list my-2">
-                  Works on All Devices
-                </li>
-                <li className="relative check custom-list my-2">
-                  Connect Anyware{" "}
-                </li>
+                    <li className="relative check custom-list my-2">
+                      Struggling with legal document drafting?
+                    </li>
+                    <li className="relative check custom-list my-2">
+                      Need to navigate complex Chinese legal documentation?
+                    </li>
+                    <li className="relative check custom-list my-2">
+                      From contract drafting to legal letters and applications, we've got you covered.
+                    </li>
+                    <li className="relative check custom-list my-2">
+                      Let us handle the paperwork so you can focus on what matters most.
+                    </li>
+                    <li className="relative check custom-list my-2">
+                      Start your journey with us today.
+                    </li>
               </ul>
               <div className="flex flex-col w-full justify-center mb-8 flex-none mt-12">
                 <p className="text-2xl text-black-600 text-center mb-4 ">
-                  $9 <span className="text-black-500">/ mo</span>
+
                 </p>
-                <ButtonOutline>Select</ButtonOutline>
+                <ButtonOutline>Get Ghostwriting</ButtonOutline>
               </div>
               </motion.div>
             </ScrollAnimationWrapper>
@@ -143,34 +147,30 @@ Are legal issues causing stress and uncertainty? My expert team offers solutions
                 />
               </div>
               <p className="text-lg text-black-600 font-medium capitalize my-2 sm:my-7">
-                Premium Plan{" "}
+                Retainer Pro{" "}
               </p>
               <ul className="flex flex-col list-inside pl-6 xl:pl-0 items-start justify-start text-left text-black-500 flex-grow">
-                <li className="relative check custom-list my-2">
-                  Unlimited Bandwitch
-                </li>
-                <li className="relative check custom-list my-2">
-                  Encrypted Connection
-                </li>
-                <li className="relative check custom-list my-2">
-                  No Traffic Logs
-                </li>
-                <li className="relative check custom-list my-2">
-                  Works on All Devices
-                </li>
-                <li className="relative check custom-list my-2">
-                  Connect Anyware{" "}
-                </li>
-                <li className="relative check custom-list my-2">
-                  Get New Features{" "}
-                </li>
-              </ul>
+  <li className="relative check custom-list my-2">
+    Need comprehensive legal services?
+  </li>
+  <li className="relative check custom-list my-2">
+    Seeking peace of mind for your legal matters?
+  </li>
+  <li className="relative check custom-list my-2">
+    Looking for an all-in-one legal solution?
+  </li>
+  <li className="relative check custom-list my-2">
+    As a premier option, it provides you with peace of mind knowing that all your legal matters are in capable hands.
+  </li>
+  <li className="relative check custom-list my-2">
+    Secure your legal future with us now.
+  </li>
+</ul>
               <div className="flex flex-col w-full justify-center mb-8 flex-none mt-12">
                 <p className="text-2xl text-black-600 text-center mb-4 ">
-                  $12 <span className="text-black-500">/ mo</span>
                 </p>
 
-                <ButtonOutline>Select</ButtonOutline>
+                <ButtonOutline>Book a Consult </ButtonOutline>
               </div>
               </motion.div>
             </ScrollAnimationWrapper>
@@ -181,11 +181,10 @@ Are legal issues causing stress and uncertainty? My expert team offers solutions
             <motion.h3
               variants={scrollAnimation}
               className="text-2xl sm:text-3xl lg:text-4xl font-medium text-black-600 leading-relaxed w-9/12 sm:w-6/12 lg:w-4/12 mx-auto">
-              Huge Global Network of Fast VPN{" "}
+          Expert Legal Services You Can Trust{" "}
             </motion.h3>
             <motion.p className="leading-normal  mx-auto my-2 w-10/12 sm:w-7/12 lg:w-6/12" variants={scrollAnimation}>
-              See Legal-Ally everywhere to make it easier for you when you move
-              locations.
+            Count on Legal-Ally for reliable legal support, no matter where you are.
             </motion.p>
           </ScrollAnimationWrapper>
           <ScrollAnimationWrapper>
@@ -229,7 +228,7 @@ Are legal issues causing stress and uncertainty? My expert team offers solutions
             <motion.h3
               variants={scrollAnimation}
               className="text-2xl sm:text-3xl lg:text-4xl font-medium text-black-600 leading-normal w-9/12 sm: lg:w-4/12 mx-auto">
-              Trusted by Thousands of Happy Customer{" "}
+              Trusted by Thousands of Happy Clients{" "}
             </motion.h3>
             <motion.p
               variants={scrollAnimation}
@@ -249,11 +248,11 @@ Are legal issues causing stress and uncertainty? My expert team offers solutions
               <div className="absolute rounded-xl  py-8 sm:py-14 px-6 sm:px-12 lg:px-16 w-full flex flex-col sm:flex-row justify-between items-center z-10 bg-white-500">
                 <div className="flex flex-col text-left w-10/12 sm:w-7/12 lg:w-5/12 mb-6 sm:mb-0">
                   <h5 className="text-black-600 text-xl sm:text-2xl lg:text-3xl leading-relaxed font-medium">
-                    Subscribe Now for <br /> Get Special Features!
+                  Ready to Discuss Your Legal Needs? <br />Don't wait !
                   </h5>
-                  <p>Let's subscribe with us and find the fun.</p>
+                  <p>Claim a your free discovery call.</p>
                 </div>
-                <ButtonPrimary>Get Started</ButtonPrimary>
+                <ButtonPrimary>Claim your free call </ButtonPrimary>
               </div>
               <div
                 className="absolute bg-black-600 opacity-5 w-11/12 roudned-lg h-60 sm:h-56 top-0 mt-8 mx-auto left-0 right-0"
